@@ -1,0 +1,6 @@
+Amy JOINED ./room1/
+id: Amy dom: ./room1/ tyoe: 1 contnent: sayMSG
+id: Amy dom: ./room1/ tyoe: 2 contnent: sayContMSG
+id: Amy dom: ./room1/ tyoe: 1 contnent: sayAgain
+id: Amy dom: ./room1/ tyoe: 2 contnent: sayContAgain
+Amy LEAVED ./room1/
